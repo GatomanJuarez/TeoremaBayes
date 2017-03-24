@@ -1,0 +1,9 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\bin\Debug\TeoremaDeBayes.exe.config
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\bin\Debug\TeoremaDeBayes.exe
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\bin\Debug\TeoremaDeBayes.pdb
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.csprojResolveAssemblyReference.cache
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.Form1.resources
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.Properties.Resources.resources
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.csproj.GenerateResource.Cache
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.exe
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\TeoremaDeBayes\TeoremaDeBayes\obj\Debug\TeoremaDeBayes.pdb
